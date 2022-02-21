@@ -1,0 +1,10 @@
+Blobs
+Os arquivos sao guardados no objeto Blob e esse objeto contem metadados, entao o blob armazena o tipo do objeto(portanto blob), o tamanho do arquivo, uma "\0" e o conteudo do arquivo
+exemplo
+echo "cont" | git hash-object --stdin
+== echo -e "blob 5\0cont" | openssl sha1 
+Trees
+Trees armazenam blobs, contém metadados,o tipo de objeto(tree), /*tamanho*\, \0, tem o blob, o sha1 e o nome do arquivo, caso alguma mudança no blob, o sha1 da tree tambem sera mudado
+
+Commit
+Commit é o objeto que junta tudo, ele aponta para uma árvore, aponta para o ultimo commit antes dele, aponta para o autor e tambem para uma mensagem . O commit tamvem tem um timestamp um carimbo de tempo, o horario correto de quando foi criado e os commits tem um sha1 proprio para os seus metadados

@@ -1,0 +1,31 @@
+Expressoes aritimeticas
+Sao expressoes que utilizam operadores aritimeticos envolvendo constantes e variaveis
+Operadores aritimeticos
+Soma +
+Subtração-
+Multiplicação *
+Divisão /
+Potenciação ^
+Porcentagem %
+
+Expressoes literais
+As expressoes literais sao expressoes com constantes e variaveis que tem como resultado os valores literais. Ê usado expressoes literais para atribuicao de variaveis ou constantes.
+
+exemplo
+var a, b, c
+a = 2 (atribuicao de 2 à a)
+b = a + 3 (soma de a=2 e 3 atribuido à b)
+c = a + b (a = 2 + b=5 atribuido à c)
+
+Expressoes relacionais 
+Sao expressoes compostas por outras expressoes  ou variaveis numericas com operadores relacioanais. As expressoes relacionais retornam valores logicos (verdadeiro ou falso)
+Operadores relacionais
+> maior
+>= maior ou igual
+< menor
+<= menor ou igual
+== igual
+!= diferente
+
+Tomadas de decisao 
+Quando escrevemos programas geralmente ocorre a necesddiade de decidir o que fazer dependendno de alguma condicao encontrada durante a execuçao.

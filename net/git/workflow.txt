@@ -1,0 +1,5 @@
+Git init indica que o Git controlará as ações feitas naquela pasta e nas subpastas.
+Quando é criado um novo arquivo, o arquivo estará em estado untracked(não rastreado), ou seja, o Git não terá controle sobre as versões desse arquivo.
+Quando diz ao Git para rastrear o arquivo, o arquivo fica em uma área stage, ainda não tem seu histórico controlado, mas já pode ter ser histórico controlado pelo Git 
+Gravar o histórico controlado (commitar), o Git guarda com um código chamado de hash code
+O estado modified ocorre quando o arquivo já rastreado(tracked) sofreu alterações que não foram commitadas 

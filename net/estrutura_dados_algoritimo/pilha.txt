@@ -1,0 +1,10 @@
+Pilha (stack)
+Uma pilha é uma estrtura de dados que serve como uma coleçao de elemenros e permite o acesso a somente um item a um itemm do dado armazenado.
+O acesso ao item da pilha é restrito - somente um item pode ser lido ou removido um de cada vez.
+
+Tipos de de pilha
+LIFO ou UEPS(portugues)
+Last in First out (ou ultima que entra primeiro que sai) apresenta o seguinte criterio, o primeiro elemento a ser retirado é o ultimo que tiver sido inserido.
+
+FIFO ou PEPS(portugues)
+First in First out (primeiro que entra primeiro que sai) apresenta o seguinte criterio, o primeiro elemento a ser retirado é o primeiro elemento que tiver sido inserido na stack.

@@ -1,0 +1,21 @@
+.net
+É uma plataforma de desenvolvimento com diversos tipos de ferramentas, lingaugens de programacao e bibliotecas
+Sobre .net
+Gratuito e softwsre livre
+Plataforma cruzada(x32, x64, arm32, arm64)
+Tipo de aplicacao 
+• web
+• mobile
+• internet das coisas
+• machine learning
+• desktop
+• jogos
+• cloud
+
+Asp.net
+É um framework que estende o .net para a criacao de web apps
+Processamento de requisicoes web
+Criacao de paginas web de forma dinamica
+Biblioteca com web patterns
+Sistema de autenticacao
+Extensoes para a produtividade 

@@ -1,0 +1,2 @@
+Filas
+A estrutura do tipo fila admite a seguinte regra na remocao e na insercao de novos elementos, o elemento removido é o que esta na estrutura ha mais tempo, ou seja, o primeiro objeto inserodo na fila é o primeiro a ser removido similar ao FIFO

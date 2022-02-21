@@ -1,0 +1,9 @@
+Tabela de espalhamento(hash)
+É estrutura de dados especial que vai associar chaves de pesquisa aos valores.
+Hashing
+Uma tabela hash é uma generalizacao do array porem utiliza uma funcao denominada hashing que espalha os elemetos fazendo com que os elementos nao fiquem ordenados e assim definindo a tabela.
+
+Por que espalahar?
+A tabeka hash permite que nos associamos valores as chaves 
+Vakores sao as posicoes ou indices onde o elemento se encontra 
+As chaves parte da informacoees que compoem o elemento a ser manipulado 

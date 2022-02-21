@@ -1,0 +1,16 @@
+1. O que é “Certificado Digital”?
+
+É um documento criptografado que contém informações necessárias para identificação de uma pessoa física ou entidade jurídica. Qualquer conteúdo eletrônico que foi assinado digitalmente tem garantia de autenticidade
+de origem
+
+Hash
+Uma função é dita unidirecional ou de hash quando possui a característica de transformar um texto de qualquer tamanho em um texto ininteligível de tamanho fixo. Além disso, ela também se caracteriza por ser fácil de calcular
+e difícil de serem invertidas.
+
+* criptografia simétrica
+Ocorre quando duas partes trocam informações criptografadas e ambas utilizam a mesma chave criptográfica para decriptografar os dados transmitidos. Podemos citar o base64 como algoritmo de criptografia simétrica.
+
+* A criptografia assimétrica acontece quando duas partes trocam informações criptografadas porém, a origem geralmente utiliza uma chave privada para criptografar os dados e o destino utiliza uma chave pública para fazer o
+caminho inverso (decriptografar). A origem da chave pública é a chave privada mas, é totalmente improvável (teoricamente) que através da chave pública reconstrua-se a chave privada.
+
+O OpenSSL é utilizado para gerar certificados de autenticação de serviços/protocolos em servidores (servers).

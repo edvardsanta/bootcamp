@@ -1,0 +1,13 @@
+Fluxograna 
+Fluxograma é uma ferramenta utilizada para representar graficamente os algoritimos, isto é, a sequencia logica e coerente do fluxo de dados.
+Fluxograna é um tipo de diagrama que pode ser entendido como uma representavao esquematica de um processo. Uma documnetaçao dos passos necessarios para a representacao de um processo qualquet
+
+
+Variaveis
+Na programacao, uma variavel é um objeto (uma posicao frequentemente localizada na memoria) capaz de reter e representar um valor ou expressao.
+Variável é um espaço na memoria destinado a um dado que ê mudado durante a execução do algoritimo.
+Tipos de variaveis
+As variaveis e as constantes podem ser basicamente divididas em quatro tipos :numeros, caracteres, alfanumericos, logicas
+
+Constantes
+Constante sao valores imutaveis e nao sao alterados durante a vida util do progama 

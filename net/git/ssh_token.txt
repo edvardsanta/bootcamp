@@ -1,0 +1,4 @@
+Chave SSH
+SSH é uma forma de estabelecer uma conexao segura e encriptada entre duas maquinas, vai ter sempre uma chave pu lica e privada.
+Token dd acesso pessoal
+Esse é uma forma que o gothub oferece para nao usar a zenha do github, mas sim um tokem gerado pelo github por um determinado tempp

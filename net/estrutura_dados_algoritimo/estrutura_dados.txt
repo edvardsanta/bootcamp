@@ -1,0 +1,27 @@
+Estrutura de dados 
+É uma estrtura organizada de dados na memoria de um computador ou em qualquer dispositivo de armazenament, de forma que os dados possam ser utilizados de forma correta.
+Essas estruturas encontram muitas aplicacoes no desenvolvimebto de sistemas sendo que algumas sao altamente especializadas e utilizadas em tarefas especificas
+Usando as estruturas adequadas atraves de algoritimos, podemos trabalhar com uma grande quantidade de dados, como aplicacoes de banco de dados ou servico de busca 
+
+Algoritimo
+Um algoritimo é um conjunto  de instrucoes estruturadas e ordenadas, seu objetivo é realizar uma tarefa ou operacao especifica.
+O algoritimo sao utilizados para manipular dados nas estruras de varias formas como por exemplo inserir, excluir, procurar e ordenar dados.
+
+Em una estrutua de dados devemos saber como realizar um determinado conjunto de operacoes basicas como por exemplo:
+•inserir dados
+•excluir dados
+•localizar um elemento
+•percorrer todos os itens constituintes da estrutura para visualizacao 
+•classificar, resume em colocar os itens de dados em uma determinada ordem (numerica, alfabetica, etc...)
+
+Principais estrturas de dados
+Utilizados em algoritimos
+Vetores e matrizes (array)
+Registro
+Lista
+Pilha (stack)
+Fila
+Arvore
+Tabela hash
+Graficos
+

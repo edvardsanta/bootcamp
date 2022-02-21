@@ -1,0 +1,5 @@
+Algoritimo 
+Ê uma sequencia de passos para resolver um problema. A ordem dos passos altera o resultado final.
+
+Pseudocodigo
+Ê uma forma generica de escrevwr um algoritimo, utilizando uma linguagem simples (nativa, ou seja que pode ser entendido por qualquer pessoa)

@@ -1,0 +1,3 @@
+SHA1
+A sigla sha signifca secure hash algorithm é um conjunto de funcoes hash criptografics projetadas pela NSA
+A encriptaco gera um conjunto de caracteres identificado de 40 digitos 

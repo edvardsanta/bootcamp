@@ -1,0 +1,10 @@
+Listas
+Estrutura de dados do tipo lista armazena os dados de determinado tipo em uma ordem especfica.
+A diferença de lista e array ê a de que a lista possui um tamanho ajustavel, enquanto o array possuem tamanho fixo.
+
+Lista ligadas
+Lista ligada existe os nós(similar aos indices do array) onde cada um dos nós conhece o valor que esta sendo armazenado em seu interior alem de conhecer o elemento posterior a ele, por isso ele é chamado de lista ligada, pois os nós sao amarrados com essa indicacao de qual é o proximo nó.
+
+
+Listas duplamente ligadas 
+A grande diferenca da lista ligada e da duplamente ligada  é que as listas duplamente ligadas sao bidirecionais, alem de saber do nó posterior, elas sabem tambem do nó anterior que permite a navegação reversa.

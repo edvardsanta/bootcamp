@@ -1,0 +1,9 @@
+Vetor e Matriz
+Vetores e matrizes, tambem chamados de arrays sao estruturas simples que podemauxiliar quando ha muitas variaveis do mesmo tipo em um algoritimo.
+
+Vetor ou array uni-dimensional ê uma variavel que armazena varias variaveis do mesmo tipo
+O vetor é uma estrutra de dados indexado que pode armazaenar uma determinada quantidade  de valores do mesmo tipo 
+
+
+Matriz ou array multi-dimensional é basicamente um vetor de vetores 
+Uma matriz é um vetor que possui duas ou mais dimensoes.

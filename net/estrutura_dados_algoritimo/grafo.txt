@@ -1,0 +1,4 @@
+Grafo
+Grafos sao estruturas que permitem programar a relação entre objetos
+Os objetos são os vértices ou nós dos grafo
+Os relacionamentos sao arestas

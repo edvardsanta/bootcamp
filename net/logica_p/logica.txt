@@ -1,0 +1,20 @@
+Programar ê resolver problemas.
+Pense na logics primeiro antes de codar
+
+O que ê logica?
+Logica é a coerencia de raciocinio de ideias. 10>9 consequentemente 9<10.
+Logica de programacao significa contextualizar a logica na programacao de softwares, buscando a melhor sequencia de acoes para solucionar um problema. Essa sequencia de açōes é chamado de algoritimo.
+
+
+
+METACOGNIÇÃO
+"Pensar como você pensa"
+
+Abstração
+Abstracao é a habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando caracteristicas menos importantes ou essenciai.
+
+Exercicio
+Media aritimetica
+nota 1: 5; nota 2: 7; nota 3: 10; nota 4: 3;
+5+7+10+3 = 25/4 = 6.2222
+

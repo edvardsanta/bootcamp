@@ -1,0 +1,2 @@
+Arvores
+É uma estrutura de dados que organiza seus elementos de forma hierarquica, onde existe um elemento que fica no topo da arvore chamado raiz e exisym elementos subordinadas a ele, que sao chamados de nós os folhas
