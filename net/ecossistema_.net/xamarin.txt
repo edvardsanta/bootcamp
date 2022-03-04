@@ -1,0 +1,13 @@
+xamarin
+- Plataforma para desenvolvimento de aplicacoes mobile modernas com alto desempenho 
+- Baseado no projeto mono, open source baseada no .net framewwork 
+- Criacao de interface nativa para cada plataforma e codigo de logica compartilhado 
+- Todos beneficios do .net
+
+Xamarin forms
+- criacao da UI com o xaml e logoca com C#
+- apps ios, android, mac, windows, linux com uma unica base de codigo
+- Uso de biblioteca xamarin.essentials:
+  - informacoes do dispostivo
+  - bloqueio de tela
+  - etx

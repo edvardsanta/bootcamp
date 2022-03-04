@@ -1,0 +1,3 @@
+.net é gratuito e open source.
+.NET STANDARD
+Especificacao das APIs são comuns às implementacoes .NET

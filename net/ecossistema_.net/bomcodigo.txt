@@ -1,0 +1,48 @@
+- Ser eficiente 
+- Ser sustentavel
+- Ser confiavel
+Eficiencia e desempenho vs confiabilidade e facilidade
+
+Clean code
+É um conjunto de boas praticas para na esceita de software para obtencao de maior legibilidade e manutenbilidade de codig
+
+Regras gerais
+- Siga sempre as cimvecnoes adotadas pela equipe
+- Mantenha simples
+- Devolva o codigo mais limpo do que encontrou
+- Busque entender e solucionar os problemas a partir da raiz
+
+Regras para entendimento de codigo
+- Ser consistente na escrita do codigo
+- Utilize variaveis concisaas que passam a informacao necessaria
+- Observe a necessidade de criacao de objetos de valor em vez de tipo primitivo
+- Evite dependencias logicas
+- Evite condicionais negativas
+
+Regras para nomeaçao
+- Escolha nomes que descrevam bem as classes, metodos e variaveis
+- Fazer uma distincao identificavel para variaveis semelhantes
+- Usar nomes de facil leitura
+- Utilize constantes para guardar string a serem comparadas
+- Nao use prefixos nem caracteres especiais
+
+Regras paea metodos
+- Metodos nao devem ser grandes e deve possuir apenas um objetivo ou responsabilidade 
+- Metodos devem possuir nomes descritivos
+- Evite a exigencia de muiotos parametros no metodo
+- Evite que uma funcao altere valores de outra classe sem ser a propria classe.
+- Evite utlizacao de flgs desnecesarrias
+
+Regras para comnetarios
+- Evire comentarios desnecessarios
+- Nao swja redudante
+- Nao deixe codigo desencesarrio comentado
+- Comneteraios podem ser util para especifcsr a intencao da classe ou merodo
+- Comentarios podem explicar regras mais complexas e alerras 
+
+Regras para estrutracao de codigo
+- Declare variavies peoximas de seu uso
+- Agurpe metodos simikarw
+- Declare funcoes de cima parq baixo
+- Mantenha poucas e curtas linhas
+- Use espacamwnto e indentacao

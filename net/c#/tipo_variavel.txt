@@ -1,0 +1,14 @@
+Tipo de valor
+Variaveis de tipos de valor contem diretamente seus dados.
+As variaveis tem sua propia copia de dados e mais e possivel que as operacoes afetem outro variavel (exceto no caso das variaveis de parametro ref e out)
+- numericos: byte, short, long, int, ushort, ulong, uint, ubyte
+- unicode: char
+- ponto flutuante: float, double, decimal
+- booleano: bool
+
+Tipos de referencia
+Variaveis de tipo de referencia armazenam referencias a seus dados
+É possivel que duas variaveis facam referencia ao mesmo objeto e, portanto, que operacoes em uma variavel afetem o objeto referenciado pela outra varaivel
+- tipo classe: class, object, string
+- tipp arrays: int[]
+- interface, delegate

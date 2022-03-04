@@ -1,0 +1,13 @@
+Common Type System(cts)
+Tipo de valor
+- Contem uma instancia do tipo criado;
+- A instancia é sempre copiada ao atribuir o valor para outra variavel;
+- Alocacao é feita na stack;
+- O valor inicial é sempre o valor default de cada tipo.
+
+Tipo de referencia
+- Contem uma referencia (um ponteiro) para uma instancia do tipo criado;
+- A referencia nunca muda ao atribuir o valor a uma outra variavel;
+- Na stack so fica o ponteiro, a alocacao fica no HEAP;
+- O valor inicial do tipo de referencia é sempre null;
+- Gerenciamento de memoria atraves do garbage colector;

@@ -1,0 +1,8 @@
+Estrutura de programa
+Programa
+Programas c# consistem em um ou mais arquivos. O programa declaram tipos que contem membros e podem ser organizados em namespaces 
+Classe e interfaces sao exemplos de tipo
+Campo, método, propriedades e evenros sao exemplos de membro
+
+Quando os prlgramas csharp sao compilados fisicamenre empactaods em assembler
+Os assembler geralmente tem a extensao de arquico .exe ou .dll dependendo se sao aplicacoes ou bibliotecas

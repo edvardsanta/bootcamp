@@ -1,0 +1,13 @@
+Como as classes, as structs sao estruturas de dados que podem contem membros de dados e membros de acao, mas diferentemente sa classe, as structs sao tipo de valor e nao requer alocacao de heap.
+Uma variavel de tipo de um struct armazena diretamente os dados da estrutura, enquanto uma variavek de um tipo de ckasse armazena uma referencia a um objeto alocado na memoria.
+Como as classes, as structs sao estruturas de dados que podem contem membros de dados e membros de acao, mas diferentemente sa classe, as structs sao tipo de valor e nao requer alocacao de heap.
+Uma variavel de tipo de um struct armazena diretamente os dados da estrutura, enquanto uma variavek de um tipo de ckasse armazena uma referencia a um objeto alocado na memoria.
+Como as classes, as structs sao estruturas de dados que podem contem membros de dados e membros de acao, mas diferentemente sa classe, as structs sao tipo de valor e nao requer alocacao de heap.
+Uma variavel de tipo de um struct armazena diretamente os dados da estrutura, enquanto uma variavek de um tipo de ckasse armazena uma referencia a um objeto alocado na memoria.
+Como as classes, as structs sao estruturas de dados que podem contem membros de dados e membros de acao, mas diferentemente sa classe, as structs sao tipo de valor e nao requer alocacao de heap.
+Uma variavel de tipo de um struct armazena diretamente os dados da estrutura, enquanto uma variavek de um tipo de ckasse armazena uma referencia a um objeto alocado na memoria.
+Como as classes, as structs sao estruturas de dados que podem contem membros de dados e membros de acao, mas diferentemente sa classe, as structs sao tipo de valor e nao requer alocacao de heap.
+Uma variavel de tipo de um struct armazena diretamente os dados da estrutura, enquanto uma variavek de um tipo de ckasse armazena uma referencia a um objeto alocado na memoria.
+Como as classes, as structs sao estruturas de dados que podem contem membros de dados e membros de acao, mas diferentemente sa classe, as structs sao tipo de valor e nao requer alocacao de heap.
+Uma variavel de tipo de um struct armazena diretamente os dados da estrutura, enquanto uma variavek de um tipo de ckasse armazena uma referencia a um objeto alocado na memoria.
+

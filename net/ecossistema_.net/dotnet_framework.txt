@@ -1,0 +1,10 @@
+.net framework
+Ambiente de desenvolvimento e execucao focado no windows
+Common language runtime + .net data library
+Caracteristixas
+- gerencimaneto de memoria
+- sistema de tipos comuns > tipos definidos pelo proprio framework
+- grande e especificas bibliotecas de clsses unitarias
+- interoperabilidade de linguagens
+- compatibilade de versoes 
+- uso do .net standard

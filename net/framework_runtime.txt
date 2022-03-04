@@ -1,0 +1,5 @@
+Framework
+É uma caixa de ferramentas ja prontas que pode ser utilizada do jeito que o programador desejar
+
+Runtime
+Compila para a linguagem binaria do computador.

@@ -1,0 +1,9 @@
+Interfaces 
+Uma interface define um contrato que pode ser implementado por uma classe ou struct 
+A interface pode conter metodos, propriedades, eventos e indexadores
+A interface nao fornece implementacoes dos membros que define - apenas suas assinaturas 
+As interfaces podem empregar herança multipla
+
+Enums
+Um enum e um tipo de valor distinto com um conjunto de constante nomeados
+Voce define enumeracoes quando precisa definir um tipo que pode ter um cinjunto de valores discretos. Eles usam um dos tipos de valor integr como armazenamento subjacente. Eles fornecem significados semanticos aos valores discretos 

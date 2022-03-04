@@ -1,0 +1,11 @@
+.net core e .net
+-Plaraforma cruzada : linux, windows, mac
+- Produzir um produto com bsse num codigo unico 
+- open source 
+- .net = .netcore + xamarin + mono + .net framework
+- Modular e com melhor desempenho
+- Aquisicao facilitads a partir do nuget
+
+Asp .net core
+- Consreucoes de aplicscoes web, iot apps e aplicscoes backend para mobile
+- funciobalidades para construcao de aplicacoes com renderizacao no servidor
