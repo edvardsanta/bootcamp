@@ -1,0 +1,17 @@
+Garbage colector
+Ele provê supoete para criação e remoção de objetos na heap.
+Vantagens 
+- segurança
+- o desenvolvedor nao precisa se preoccupar com a liberacao de memoria nem com sobrescrita de memoria.
+
+Desvantagens 
+- perda de performance 
+- falta de observação
+
+Arquitetura
+Gen 1
+Objetos têm um ciclo de vida curto
+Gen 2
+Buffer de alternancia entre a gen 1 e a gen 3
+Gen 3
+Objetos têm um longo ciclo de vida (classes estáticas)
