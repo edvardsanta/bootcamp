@@ -27,12 +27,11 @@ namespace CSharp_Shell
         {
            WriteLine("Hello, write a number between 1 to 12\n");
            int number = int.Parse(ReadLine());
-		   foreach (var item in Enum.GetValues(typeof(Months)))
+	   foreach (var item in Enum.GetValues(typeof(Months)))
            {
              if(number == Convert.ToInt32(item))
              { 
              	WriteLine(item);
-             	
              }
              else if (number == 0)
              {
@@ -45,8 +44,6 @@ namespace CSharp_Shell
              	break;
              }
            }
-           
-           
         }
     }
 }
