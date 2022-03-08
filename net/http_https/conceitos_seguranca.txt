@@ -1,0 +1,9 @@
+Criptografia por chave 
+- Assimetrica
+chave privada(assinatura e criptogfafia)
+e publica (verificacao da autenticidade)
+- Simetrica
+Cifra de cesar, assinatura unica 
+cifra de fluxo
+ciffa de bloco 
+

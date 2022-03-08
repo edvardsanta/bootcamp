@@ -1,0 +1,5 @@
+Secure socket layer 
+- Protocolo de seguranca para conexoes TCP
+- Integridade 
+- Confidencialidade  
+- Autenticidade ponta a ponta

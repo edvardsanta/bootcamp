@@ -1,0 +1,13 @@
+HTTP
+hyper text transfer protocol
+
+- Definido pelo RFC 1945 e 2216
+- Protocolo de comunicacao 
+rege a estrutura as mensagens
+client(browsers) -> implementa o cliente HTTP
+server -> host objetos web
+
+client
+mensagem = request (objeto web)
+server
+mesnagem = response (TCP)
