@@ -1,0 +1,2 @@
+Abstracao
+É o conceito de abstrair partes importantes de um objeto para um cobtexto especifico

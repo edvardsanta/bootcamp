@@ -1,0 +1,5 @@
+Construtores 
+Um construtor é um metodo especial que contém o mesmo nome do seu tipo classe, e tem o objetivo e tem o objetivo de definir valores padrao, limitar uma instancia e facilitar a instanciação de um obj.
+- Um construtor nao poussi um retorn;
+- Um construtor padrao é sempre definido quando nao declaramos nenhum para sua clasee;
+- Uma classe pode ter mais de um construtor.

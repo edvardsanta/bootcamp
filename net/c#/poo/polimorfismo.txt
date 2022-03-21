@@ -1,0 +1,23 @@
+Polimorfismo
+Com o polimorfismo, pode-se sobrescrever métodos das classes herdadas para que se comporte de uma maneira mais especifica. Ex:
+Polimorfismo em tempo de exec.
+pessoa 
+funcao falar "eu sou"
+
+atendente estende pessoa
+nome = sequencia de caracteres
+cargo = sequencia de caracteres
+funcao sobrescrever falar "eu sou {nome} e trabalho como {cargo}"
+
+cliente estende pessoa
+nome = sequencia de char
+objetoCompra = sequencia de char
+funcao sobrescrever falar "eu sou {nome} e quero comprar {objetoCompra}"
+
+Polimorfismo em tempo de compilacao (sobrecarga de metodos)1
+Calculadora
+funcao somar(inteiro a + inteiro b)
+funcao somar(inteiro a + inteiro b + inteiro c)
+
+Calculadora obj = nova Calculadora
+obj.somar(3,6) ou obj.soma(3,6,9)

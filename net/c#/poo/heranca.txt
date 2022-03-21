@@ -1,0 +1,3 @@
+Heranca
+A herança permite herdar atributos, metodos e comportamentos de uma clssse em outra classe.
+Serve para agrupar objetos do mesmo tipo porem com caracteristicas diferentes 

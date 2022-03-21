@@ -1,0 +1,3 @@
+Classe object
+A clase system object é a mãe de todas as classe no .net.
+Tudo que existe no csharp deriva diretamente ou indiretamente da classe object e ela tem como objetivo prover serviços de baixo nivel para as classes.

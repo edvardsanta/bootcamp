@@ -1,0 +1,5 @@
+Classe selada
+Tem o objetivo de impedir que outras classes derivem dela, impossibiltando o onceito de heranca.
+
+Metodo selado 
+Tem objetivo de impedir que o metodo seja sobrescrito.

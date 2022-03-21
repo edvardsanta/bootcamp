@@ -1,0 +1,5 @@
+Classe
+Classe é um molde, uma base de um objeto;
+
+Objeto
+Objeto é a construçâo da classe, o objeto materializado.

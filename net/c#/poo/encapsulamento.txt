@@ -1,0 +1,3 @@
+Encapsulamento
+Serve para proteger a classe e definir limites para as propriedades.
+Serve para alterar comportamentos e expopor somente o necessario.

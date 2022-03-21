@@ -1,0 +1,2 @@
+Classes abstratas 
+Classes abstratas têm como objetivo ser exclusivamente um molde para outras classes, estando intrisicamente relacionada com o conceito de herança, NÃO PODE SER INSTANCIADA, propriedades e métodos serão apenas utilziados em uma classe que herda da classe abstrata.
